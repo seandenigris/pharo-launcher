@@ -22,7 +22,7 @@ In the past, I had several folders with images everywhere on my HD. Sometimes wi
 Now, my HD is now much cleaner - all images are in a central place and I need only one icon/starter on the desktop to open. PharoLauncher is also a convenient tool to download specific image update versions if you want to reproduce or fix Pharo bugs. I also associated one of the unused laptop keys with PharoLauncher - so the world of Smalltalk is just one click away...
 
 ## How to install?
-See http://pharo.org/download for detailed download and installation instructions.
+See https://pharo.org/download for detailed download and installation instructions.
 
 ## How to use it?
 Just launch the Pharo launcher app.
